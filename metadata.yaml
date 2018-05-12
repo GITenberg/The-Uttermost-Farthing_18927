@@ -1,0 +1,43 @@
+_repo: The-Uttermost-Farthing_18927
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowndes, Marie Belloc
+    aliases:
+    - Belloc, Marie Adelaide
+    - Belloc-Lowndes, Marie Adelaide
+    - Lowndes, Marie Adelaide Belloc
+    - Belloc, M. A. (Marie Adelaide)
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '786'
+    url: http://www.gutenberg.org/2009/agents/786
+    wikipedia: http://en.wikipedia.org/wiki/Marie_Adelaide_Belloc_Lowndes
+description: Laurence Vanderlyn, unpaid attache at the American Embassy in Paris,
+  strode down the long grey platform marked No. 5, of the Gare de Lyon. It was seven
+  o'clock, the hour at which Paris is dining or is about to dine, and the huge station
+  was almost deserted. The train de luxe had gone more than an hour ago, the Riviera
+  rapide would not start till ten, but one of those trains bound for the South, curiously
+  named demi-rapides, was timed to leave in twenty minutes. Foreigners, especially
+  Englishmen and Americans, avoid these trains, and this was why Laurence Vanderlyn
+  had chosen it as the starting point of what was to be a great adventure, an adventure
+  which must for ever be concealed, obliterated as much as may be from his own memory--do
+  not men babble in delirium?--once life had again become the rather grey thing he
+  had found it to be.
+gutenberg_issued: '2006-07-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18927'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- France -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Man-woman relationships -- Fiction'
+title: The Uttermost Farthing
+url: http://www.gutenberg.org/ebooks/18927
